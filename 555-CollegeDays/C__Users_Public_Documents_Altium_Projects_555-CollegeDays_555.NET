@@ -1,0 +1,9 @@
+PARTS LIST
+
+NE555P            P0008A          U1
+EOS
+NET LIST
+
+NODENAME GND              $
+    U1         1
+EOS
